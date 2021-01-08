@@ -23,3 +23,12 @@ Blog
 Contact Us
 Terms
 Privacy
+
+exam 
+
+carousel en bootstrap
+qcm en js 
+diaporama en js
+
+
+
